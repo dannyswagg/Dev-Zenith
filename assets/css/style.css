@@ -49,7 +49,9 @@
 
 ***/
 /* banner__section */
-
+html {
+  scroll-behavior: smooth;
+}
 .circle-main {
     text-align: center;
     height: 230px;
